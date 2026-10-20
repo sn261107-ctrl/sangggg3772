@@ -1,0 +1,6 @@
+{
+  "name": "AtelierFit — Phối Đồ & Tủ Đồ Số",
+  "description": "Ứng dụng thời trang quản lý tủ đồ cá nhân, phối đồ thông minh chuẩn tỷ lệ theo chiều cao, cân nặng và thời tiết thực tế với trợ lý AI.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
